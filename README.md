@@ -1,4 +1,4 @@
-# resume-api
+# Resume API
 
 [![Build and publish to ghcr.io](https://github.com/ericthomasca/resume-api/actions/workflows/push-to-ghcr.yml/badge.svg)](https://github.com/ericthomasca/resume-api/actions/workflows/push-to-ghcr.yml)
 
