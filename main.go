@@ -36,6 +36,8 @@ func main() {
 		
 	})
 
+	// GitHub Action trigger test
+
 	fmt.Println("Server listening on :7777...")
 	http.ListenAndServe(":7777", nil)
 }
