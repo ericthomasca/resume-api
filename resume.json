@@ -1,0 +1,91 @@
+{
+    "name": "Eric Thomas",
+    "title": "Software Developer",
+    "location": "Corner Brook, NL, CA",
+    "email": "eric@ericthomas.ca",
+    "summary": "I am a dedicated Software Developer with expertise in designing, installing, testing, and maintaining software systems. My strong analytical skills have been honed through diverse work experiences. Proficient in various platforms, languages, systems analysis, and security, I am well-versed in the latest cutting-edge development tools and procedures. Whether self-managing independent projects or collaborating in a team, I consistently deliver high-quality results.",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/ericthomasca",
+      "github": "https://github.com/ericthomasca",
+      "mastodon": "https://fosstodon.org/@electrona",
+      "google_dev": "https://g.dev/ericthomas"
+    },
+    "experience": [
+      {
+        "title": "Software Developer",
+        "company": "Genoa Design International, Mount Pearl, NL (Remote)",
+        "responsibilities": [
+          "Led and contributed to full-stack development using React, ASP.NET, and SQL Server.",
+          "Collaborated with cross-functional Agile teams for effective project delivery."
+        ],
+        "date_range": "Oct 2022 - Jan 2024"
+      },
+      {
+        "title": "Software Developer Intern",
+        "company": "Genoa Design International, Mount Pearl, NL (Remote)",
+        "responsibilities": [
+          "Engaged in a comprehensive software development internship.",
+          "Assisted in various development tasks for a successful transition to a full-time Software Developer role."
+        ],
+        "date_range": "Jul 2022 - Aug 2022"
+      },
+      {
+        "title": "Financial Services Manager",
+        "company": "Bank of Montreal, Stephenville, NL",
+        "responsibilities": [
+          "Managed a portfolio of clients, providing expert advice on banking, lending, and investment solutions.",
+          "Exceeded sales targets consistently for lending, investing, and everyday banking products."
+        ],
+        "date_range": "May 2016 - June 2018"
+      },
+      {
+        "title": "Front Desk Clerk",
+        "company": "Glynmill Inn, Corner Brook, NL",
+        "responsibilities": [
+          "Performed night audit tasks, ensuring accurate balancing and closing of daily accounts.",
+          "Managed guest check-ins, provided information about hotel services, charges, and facilities."
+        ],
+        "date_range": "Jun 2015 - Sep 2015"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Accelerated Software Development Post Diploma",
+        "school": "College of the North Atlantic, St. John's, NL",
+        "details": [
+          "Studied a variety of software development topics, including Java, Python, JavaScript, SQL, security, and systems analysis.",
+          "Completed a work term with Genoa Design International."
+        ],
+        "date_range": "Sep 2021 - Aug 2022"
+      },
+      {
+        "degree": "Bachelor of Business Administration",
+        "school": "Memorial University of Newfoundland, Corner Brook, NL",
+        "details": [
+          "Participated in a partnership program with the College of the North Atlantic.",
+          "Focused on electives in finance and economics."
+        ],
+        "date_range": "Sep 2015 - Jun 2016"
+      },
+      {
+        "degree": "Business Management (Accounting) Diploma",
+        "school": "College of the North Atlantic, Grand Falls-Windsor, NL",
+        "details": [
+          "Completed electives in tax, payroll, and the oil and gas industry."
+        ],
+        "date_range": "Sep 2011 - Jun 2014"
+      }
+    ],
+    "skills": {
+      "programming_languages": ["C#", "Python", "Java", "Go"],
+      "web_development": ["React", "Material-UI", "ASP.NET", "HTML5", "CSS3", "JavaScript", "TypeScript"],
+      "backend_development": ["Node.js", "Express", "SQL Server", "MongoDB", "PostgreSQL"],
+      "devops_cloud": ["AWS", "Docker", "Linux", "Azure DevOps"]
+    },
+    "strengths": [
+      "Exceptional problem-solving skills with a keen analytical mindset.",
+      "Proven adaptability to dynamic challenges and changing environments.",
+      "Proficient in Agile Development methodologies and Scrum practices."
+    ]
+  }
+  
