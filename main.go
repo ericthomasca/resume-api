@@ -22,7 +22,6 @@ func main() {
 			Location: "Corner Brook, NL, CA",
 			Email:    "eric@ericthomas.ca",
 			Summary:  "I am a dedicated Software Developer with expertise in designing, installing, testing, and maintaining software systems. My strong analytical skills have been honed through diverse work experiences. Proficient in various platforms, languages, systems analysis, and security, I am well-versed in the latest cutting-edge development tools and procedures. Whether self-managing independent projects or collaborating in a team, I consistently deliver high-quality results.",
-
 		}
 
 		w.Header().Set("Content-Type", "application/json")
@@ -33,10 +32,7 @@ func main() {
 			http.Error(w, err.Error(), http.StatusInternalServerError)
 			return
 		}
-		
 	})
-
-	// GitHub Action trigger test
 
 	fmt.Println("Server listening on :7777...")
 	http.ListenAndServe(":7777", nil)
